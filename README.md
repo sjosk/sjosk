@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am a MSc Connected Environments students of UCL CASA
+Esther is a creative technologist who leverages technology and creativity to optimize communication and eliminate gaps. She specializes in phygital solutions to craft interactive experiences, focusing on data visualization and user experience design.
 
 
 ## 🌐 Socials:
